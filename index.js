@@ -17,7 +17,7 @@ if(string.toLowerCase() === string){
 }
 
 function whisper(string){
-  if(string===string.){
+  if(string===string.toLowerCase()){
     
   }
   
