@@ -26,5 +26,3 @@ if(string.toUpperCase() === string){
 }
  console.log(valString)
 }
-
-}
