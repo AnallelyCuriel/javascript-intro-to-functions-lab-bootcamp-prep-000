@@ -17,10 +17,9 @@ if(string.toLowerCase() === string){
 }
 
 function whisper(string){
+
   if(string===string.toUpperCase()){
-    console.log(string.toLowerCase()) 
-  }else{
-    console.log(string)
+    return(string.toLowerCase()) 
   }
-  
+
 }
