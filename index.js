@@ -26,3 +26,8 @@ if(string.toUpperCase() === string){
 }
  console.log(valString)
 }
+
+function sayHiToGrandma(string){
+  
+  
+}
