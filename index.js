@@ -15,3 +15,10 @@ if(string.toLowerCase() === string){
 }
  console.log(valString)
 }
+
+function whisper(string){
+  if(string===string.){
+    
+  }
+  
+}
