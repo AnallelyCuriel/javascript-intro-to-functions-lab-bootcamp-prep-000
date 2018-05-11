@@ -16,10 +16,15 @@ if(string.toLowerCase() === string){
  console.log(valString)
 }
 
-function whisper(string){
+function logWhisper(string){
 
-  if(string===string.toUpperCase()){
-    return(string.toLowerCase()) 
-  }
+  var valString
+if(string.toUpperCase() === string){
+ valString=string.toLowerCase()
+}else{
+  valString=string
+}
+ console.log(valString)
+}
 
 }
