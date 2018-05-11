@@ -28,6 +28,9 @@ if(string.toUpperCase() === string){
 }
 
 function sayHiToGrandma(string){
+  if(string.toLowerCase()=== string){
+    console.log(valString)
+  }
   
   
 }
